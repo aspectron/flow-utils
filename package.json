@@ -1,7 +1,7 @@
 {
   "name": "flow-utils",
   "version": "0.0.1",
-  "description": "",
+  "description": " ",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -28,7 +28,7 @@
   },
   "files": [
     "index.js",
-    "lib"
+    "lib",
     "README.md",
     ".jsdoc.js"
   ]

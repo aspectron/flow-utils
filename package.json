@@ -10,7 +10,6 @@
   "keywords": [],
   "license": "MIT",
   "dependencies": {
-    "serve-static": "*"
   },
   "devDependencies": {
     "eslint": "*",

@@ -1,7 +1,7 @@
 {
   "name": "@aspectron/flow-utils",
   "version": "0.0.4",
-  "description": " ",
+  "description": "Utility functions",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -28,6 +28,7 @@
     "index.js",
     "lib",
     "README.md",
+    "LICENSE",
     ".jsdoc.js"
   ]
 }

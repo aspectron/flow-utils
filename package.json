@@ -1,6 +1,6 @@
 {
   "name": "@aspectron/flow-utils",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Utility functions",
   "main": "index.js",
   "repository": {
@@ -9,7 +9,9 @@
   },
   "keywords": [],
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "node-fetch":"*"
+  },
   "devDependencies": {
     "eslint": "*",
     "eslint-config-google": "*",
